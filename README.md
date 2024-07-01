@@ -1,1 +1,1 @@
-# Chatbot-with-OpenAI-
+# Artificial Intelligence Projects 
